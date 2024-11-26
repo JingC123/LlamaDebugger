@@ -17,7 +17,7 @@ This is LlamaDebugger Repo.
     ```
 
 
-3. Run the backend server, and open [http://localhost:3000](http://localhost:3000) in your browser
+3. Run the backend server
 
     ```shell
     python server.py

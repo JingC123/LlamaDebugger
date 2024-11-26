@@ -1,4 +1,4 @@
-This is our front end code in Vue 3.
+This is LlamaDebugger Repo.
 
 
 ## Setup
